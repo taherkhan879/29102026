@@ -1,0 +1,29 @@
+.header-container {
+  background-color: #3367d6;
+  height: 100px;
+  width: 100vw;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.image {
+  height: 50px;
+  margin-top: 20px;
+}
+.search-image {
+  height: 50px;
+  width: 50px;
+  background-color: #2850a7;
+}
+.search-bar {
+  height: 50px;
+  width: 500px;
+  background-color: #2850a7;
+}
+search-container {
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+  gap: 1px;
+}
